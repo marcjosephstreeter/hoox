@@ -1,0 +1,8 @@
+name: Hoox
+version: 1.0-SNAPSHOT
+main: me.yodeling_goat.hoox.Hoox
+api-version: 1.13
+commands:
+  save:
+    description: save stuff
+    usage: /<command> <nameOfsave>
